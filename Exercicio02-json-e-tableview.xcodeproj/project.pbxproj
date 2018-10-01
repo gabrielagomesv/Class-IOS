@@ -12,6 +12,8 @@
 		ACCF5EE5216246010030FF27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACCF5EE3216246010030FF27 /* Main.storyboard */; };
 		ACCF5EE7216246030030FF27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACCF5EE6216246030030FF27 /* Assets.xcassets */; };
 		ACCF5EEA216246030030FF27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACCF5EE8216246030030FF27 /* LaunchScreen.storyboard */; };
+		ACCF5EF2216246300030FF27 /* ListaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCF5EF1216246300030FF27 /* ListaTableViewController.swift */; };
+		ACCF5EF42162491C0030FF27 /* Aplicativo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCF5EF32162491C0030FF27 /* Aplicativo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		ACCF5EE6216246030030FF27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACCF5EE9216246030030FF27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACCF5EEB216246030030FF27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACCF5EF1216246300030FF27 /* ListaTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaTableViewController.swift; sourceTree = "<group>"; };
+		ACCF5EF32162491C0030FF27 /* Aplicativo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aplicativo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				ACCF5EDF216246010030FF27 /* AppDelegate.swift */,
 				ACCF5EE1216246010030FF27 /* ViewController.swift */,
 				ACCF5EE3216246010030FF27 /* Main.storyboard */,
+				ACCF5EF1216246300030FF27 /* ListaTableViewController.swift */,
+				ACCF5EF32162491C0030FF27 /* Aplicativo.swift */,
 				ACCF5EE6216246030030FF27 /* Assets.xcassets */,
 				ACCF5EE8216246030030FF27 /* LaunchScreen.storyboard */,
 				ACCF5EEB216246030030FF27 /* Info.plist */,
@@ -137,6 +143,8 @@
 			files = (
 				ACCF5EE2216246010030FF27 /* ViewController.swift in Sources */,
 				ACCF5EE0216246010030FF27 /* AppDelegate.swift in Sources */,
+				ACCF5EF2216246300030FF27 /* ListaTableViewController.swift in Sources */,
+				ACCF5EF42162491C0030FF27 /* Aplicativo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
